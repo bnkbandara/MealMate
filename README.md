@@ -21,6 +21,13 @@
 - [MealDB API](https://www.themealdb.com/api.php) – Free JSON API for meals and recipes
 
 ---
+# Screenshots
+
+![Screenshot 2025-07-02 031520](https://github.com/user-attachments/assets/0a4bc5f4-d52a-4859-9f96-c85fc0fa82b5)
+![Screenshot 2025-07-02 031553](https://github.com/user-attachments/assets/58f0fd92-1b78-4299-8cc2-4ce2cf03f2a3)
+![Screenshot 2025-07-02 031602](https://github.com/user-attachments/assets/d47ca2c4-cd4f-40cd-9d06-2311e827a90b)
+
+
 
 Author
 Naveen Kalanajith
